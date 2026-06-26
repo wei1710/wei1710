@@ -4,7 +4,7 @@ I'm Wei, a software developer based in Copenhagen.
 
 I got into software development because I wanted to understand what happens under the hood.
 
-I'm currently finishing my Professional Bachelor's in Software Development and on internship at [Currus Connect](https://www.currus-connect.com).
+I recently graduated with a Professional Bachelor's in Software Development. I'm currently working part-time at [CGN Software](https://www.cgn-software.dk/).
 
 My main tech stack is C#, .NET, TypeScript, PHP, Laravel, Java, and Spring Boot. My favorite tools are Git, and Docker.
 
