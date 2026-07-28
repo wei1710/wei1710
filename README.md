@@ -6,7 +6,7 @@ I got into software development because I wanted to understand what happens unde
 
 I recently graduated with a Professional Bachelor's in Software Development. I'm currently working part-time at [CGN Software](https://www.cgn-software.dk/).
 
-My main tech stack is C#, .NET, TypeScript, PHP, Laravel, Java, and Spring Boot. My favorite tools are Git, and Docker.
+My main tech stack is C#, .NET, and TypeScript. My favorite tools are Git, and Docker.
 
 **Fun Facts:**  
 - I git clone projects I find interesting just to read how other people think and build
