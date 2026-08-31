@@ -4,7 +4,7 @@ I'm Wei, a software developer based in Copenhagen.
 
 I got into software development because I wanted to understand what happens under the hood.
 
-I recently graduated with a Professional Bachelor's in Software Development. I'm currently working part-time at [CGN Software](https://www.cgn-software.dk/).
+I'm currently pursuing an MSc in Computer Science. I'm currently working part-time at [IT Minds](https://it-minds.dk/).
 
 My main tech stack is C#, .NET, and TypeScript. My favorite tools are Git, and Docker.
 
