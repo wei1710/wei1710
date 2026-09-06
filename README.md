@@ -11,7 +11,7 @@ My main tech stack is C#, .NET, and TypeScript. My favorite tools are Git, and D
 **Fun Facts:**  
 - I git clone projects I find interesting just to read how other people think and build
 - Every project teaches me something the last one didn't
-- I speak three language fluently
+- I speak Danish, English and Chinese fluently
 - I enjoy tea
 
 **Reach me:**
